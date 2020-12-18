@@ -161,7 +161,6 @@ require (
 	github.com/sourcegraph/sourcegraph/enterprise/dev/ci/images v0.0.0-00010101000000-000000000000
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/src-d/enry/v2 v2.1.0
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stripe/stripe-go v70.15.0+incompatible
 	github.com/temoto/robotstxt v1.1.1
